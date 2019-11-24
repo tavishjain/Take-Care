@@ -17,7 +17,7 @@ I’ll be using Tensorflow (and Keras if necessary) to build the Machine Learnin
 
 The first step in building this project would be to build a better Machine Learning model with a higher accuracy rate, followed by the development of the Android app, and eventually their integration using TensorFlow Lite.
 
-I previously have built a prototype of the application, which would be made again from scratch, because it would have a considerable amount of changes. 
+I previously have built a prototype of the application (https://github.com/tavishjain/HappyBeing), which would be made again from scratch, because it would have a considerable amount of changes. 
 
 Although the application I built required the user to explicitly open the application and enter his mood for the day, this could be faked by the user, leading to false negatives. That is why it is important to track what words the user actually uses across the day, and then continuing the analysis.
 
