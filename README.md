@@ -2,7 +2,7 @@
 ![Android Dev Challenge](https://github.com/tavishjain/Take-Care/blob/master/AndroidDevChallenge.PNG)
 
 
-#Tell us what your idea is. 
+# Tell us what your idea is. 
 
 A lot of users undergo mental stress and depression, and there are less number of ways currently that someone notices another person for those traits. Many patients go unnoticed, leading to a more severe state, where he/she becomes untreatable. With the rise in the usage of mobiles, most of the people tend to search or use words according to their mood. This could help us a lot in detecting user’s mental state. 
  
@@ -12,7 +12,7 @@ Every user will be asked to add up some related/close contacts, which could be g
  
 The application might seem to be of less use if used as a separate application, but if integrated along with GBoard, which is used by a large majority of Android OS user’s, this could seem to be a potentially good solution to control mental health.
 
-#Tell us how you plan on bringing it to life. 
+# Tell us how you plan on bringing it to life. 
 I’ll be using Tensorflow (and Keras if necessary) to build the Machine Learning Model and further TensorFlow Lite to extend the algorithm to be on-device, onto the Android application.
 
 The first step in building this project would be to build a better Machine Learning model with a higher accuracy rate, followed by the development of the Android app, and eventually their integration using TensorFlow Lite.
@@ -31,7 +31,7 @@ The creation/development of the Machine Learning algorithm would take around a m
 
 
 
-#Tell us about you. 
+# Tell us about you. 
  I am Tavish Jain, pursuing my undergraduate degree from Delhi Technological University (formerly Delhi College of Engineering) majoring in Software Engineering. I am an Android developer and a Machine Learning Researcher, aiming to become better at Software Development. I've also completed the Associate Android Developer exam by Google. 
 I am also innovating a Software Bug Predictor at my university as a Research Assistant which involves analysis of the data, software design, software development, software testing, maintenance and delivering a finalised working software as a product, that could possibly be released publicly, aiming to increase the development speed by 40%.
 
