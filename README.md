@@ -19,6 +19,8 @@ The first step in building this project would be to build a better Machine Learn
 
 I previously have built a prototype of the application (https://github.com/tavishjain/HappyBeing), which would be made again from scratch, because it would have a considerable amount of changes. 
 
+![App Screenshots](https://github.com/tavishjain/Take-Care/blob/master/appScreenshots.PNG)
+
 Although the application I built required the user to explicitly open the application and enter his mood for the day, this could be faked by the user, leading to false negatives. That is why it is important to track what words the user actually uses across the day, and then continuing the analysis.
 
 I would need help from the Google team at a couple of points over here.
