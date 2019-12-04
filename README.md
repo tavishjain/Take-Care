@@ -35,11 +35,10 @@ The creation/development of the Machine Learning algorithm would take around a m
 
 # Tell us about you. 
  I am Tavish Jain, pursuing my undergraduate degree from Delhi Technological University (formerly Delhi College of Engineering) majoring in Software Engineering. I am an Android developer and a Machine Learning Researcher, aiming to become better at Software Development. I've also completed the Associate Android Developer exam by Google. 
-I am also innovating a Software Bug Predictor at my university as a Research Assistant which involves analysis of the data, software design, software development, software testing, maintenance and delivering a finalised working software as a product, that could possibly be released publicly, aiming to increase the development speed by 40%.
 
 I am also innovating a Software Bug Predictor at my university, involving machine learning, data analysis, data mining, software design, development, testing, maintenance, hosting on Cloud and delivering a cross-platform application. Conducting research work and applying various Machine Learning Algorithms, programming skills, troubleshooting technical problems, testing on multiple test cases would be the main area of interest. The project aims to reduce the development time by 40% as a lot of time is spent in Software Debugging. 
 
-Next steps.  
+## Next steps.  
  
 Be sure to include this cover letter in your GitHub repository
 Your GitHub repository should be tagged #AndroidDevChallenge
